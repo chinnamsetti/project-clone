@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>This is akhil</h1>
       <h2>I am a BRN student</h2>
-      <h2>Batch 2403<h2>
+      <h2>BATCH 2403<h2>
     </div>
   );
 }
